@@ -11,15 +11,7 @@
 - **Languages:** C
 - **Platforms:** Android on aarch64
 
-## Projects
-
-Here are a few projects I've worked on:
-
-1. [**K-Nel M1721**](https://github.com/KJ-Network/K-Nel-M1721) - A Custom Android Kernel For Meizu M6 Note
-2. Perhaps there will be more in the future...
-
 ## Connect with Me
 
-- [Telegram](https://t.me/knkj55)
 - [Website](https://knkj55.github.io)
 - Email: knkj55@proton.me
